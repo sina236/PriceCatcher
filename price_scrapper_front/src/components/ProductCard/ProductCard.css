@@ -1,0 +1,35 @@
+button.MuiButton-containedPrimary:hover {
+    color:black;
+    background-color: white;
+}
+
+.productCard {
+    border: 1px solid black;
+    margin: 30px;
+    width: 18rem;
+    height: 24rem;
+    border-radius: 30px;
+}
+
+.productCard:hover {
+    box-shadow: 10px 10px 8px #888888;
+}
+
+.cardBody {
+    padding: 30px;
+}
+
+.cardTitle {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  
+  .cardImg {
+      margin-top: 25px;
+  }
+
+  .titleDiv {
+      height: 10px;
+      width: 100%;
+  }

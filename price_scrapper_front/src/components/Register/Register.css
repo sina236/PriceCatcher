@@ -1,0 +1,24 @@
+form {
+    display: inline-grid;
+    gap: 40px;
+}
+
+.signUpForm {
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: ghostwhite;
+    width: 400px;
+    height: 550px;
+}
+
+.signUpBox {
+    margin-top: 100px;
+}
+
+form button.MuiButton-containedPrimary:hover {
+    color:black;
+    background-color: white;
+}
+
